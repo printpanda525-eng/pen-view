@@ -34,11 +34,11 @@ The interface mode can be selected in the add-on preferences.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="image/pen-pie" width="300" />
+      <img src="image/pen-pie.png" width="300" />
       <br><b>Pie menu</b>
     </td>
     <td align="center">
-      <img src="image/pen-tarj" width="300" />
+      <img src="image/pen-tarj.png" width="300" />
       <br><b>Popup</b>
     </td>
   </tr>
