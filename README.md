@@ -31,6 +31,21 @@ Pen View offers two interface styles:
 
 The interface mode can be selected in the add-on preferences.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/pen-pie" width="300" />
+      <br><b>Pie menu</b>
+    </td>
+    <td align="center">
+      <img src="images/pen-tarj" width="300" />
+      <br><b>Popup</b>
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 ## Installation (Required)
