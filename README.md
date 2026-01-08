@@ -4,7 +4,9 @@ Pen View is a lightweight Blender add-on designed to improve viewport navigation
 
 The add-on provides quick access to common view, mode, and overlay tools through a customizable interface, allowing users to choose between a Pie Menu or a floating Popup UI.
 
-⚠️ This add-on requires classic Blender add-on installation to enable both interface modes.
+⚠️ This add-on requires classic Blender add-on installation to enable both interface modes.  
+Blender Extensions are not compatible with this hybrid add-on.
+C:\Users\your user\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\addons
 
 ---
 
