@@ -50,21 +50,49 @@ The interface mode can be selected in the add-on preferences.
 
 ---
 
-## Installation (Required)
+## Installation
 
-Pen View must be installed as a classic Blender add-on.
+Pen View must currently be installed as a classic Blender add-on.
 
-Blender Extensions currently do not support Add-on Preferences, which are required to switch between the Pie Menu and Popup interface modes.
+Due to limitations in Blender’s new Extensions system (4.x), modular add-ons that use dynamic routing and Add-on Preferences may not function correctly when installed as Extensions.
 
-### Correct installation method
+### Recommended Installation Method (Classic Add-on)
 
 1. Download the repository as a ZIP file from GitHub.
-2. Open Blender.
-3. Go to Edit → Preferences → Add-ons.
-4. Click Install…
-5. Select the downloaded ZIP file.
-6. Enable the Pen View add-on.
-7. Open the add-on preferences and select the desired interface mode.
+2. Extract the ZIP file.
+3. Copy the `pen_view` folder into your Blender addons directory:
+
+   C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\4.x\scripts\addons\
+
+
+   **Windows:**
+   
+5. Open Blender.
+6. Go to **Edit → Preferences → Add-ons**.
+7. Enable **Pen View**.
+8. Open the add-on preferences and select your desired interface mode (Pie Menu or Popup).
+
+---
+
+## Assign a Shortcut (Required)
+
+Pen View does not automatically assign a shortcut.
+
+To activate it:
+
+1. Go to **Edit → Preferences → Keymap**.
+2. In the search bar, type: `penview`
+3. Click **Add New**.
+4. Set the Operator to:
+5. Assign your preferred shortcut (for example: `Q`, `Shift+Space`, or a stylus button).
+
+Now the add-on will open either the Pie Menu or Popup interface depending on your selected UI Mode.
+
+---
+
+⚠ Installing through Blender’s new Extensions system may prevent the UI mode switching from working correctly.
+
+
 
 ---
 
