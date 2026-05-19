@@ -10,7 +10,7 @@ It provides fast access to viewport controls, mode switching, sculpt brushes, me
       <br><b>Main Popup</b>
     </td>
     <td align="center">
-      <img src="image/pen-view_2.0.png" width="300" />
+      <img src="image/pen_view_2.0.png" width="300" />
       <br><b>Brush Popup</b>
     </td>
   </tr>
