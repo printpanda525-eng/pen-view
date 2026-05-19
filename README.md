@@ -6,7 +6,7 @@ It provides fast access to viewport controls, mode switching, sculpt brushes, me
 <table align="center">
   <tr>
     <td align="center">
-      <img src="image/pen-popup.png" width="300" />
+      <img src="image/pen-tarj.png" width="300" />
       <br><b>Main Popup</b>
     </td>
     <td align="center">
