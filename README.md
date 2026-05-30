@@ -53,10 +53,6 @@ It provides fast access to viewport controls, mode switching, sculpt brushes, me
 - Works in both Front Orthographic and Side Orthographic views
 - Visible across multiple viewports when using split viewport layout
 
-### Guides
-- Proportional 3D measurement guide
-- Drag to place, click to move, clear with one button
-
 ### Hide / Unhide
 - Hide selection (H), hide unselected (Shift+H), unhide all (Alt+H)
 - Works in both Object and Edit mode
