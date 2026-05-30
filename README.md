@@ -96,18 +96,13 @@ Pen View must be installed as a **classic Blender add-on**, not through the Exte
 
 1. Download the repository as a ZIP file from GitHub.
 2. Extract the ZIP file.
-3. Copy the `pen_view` folder into your Blender addons directory:
+3. Open Blender.
+4. Go to **Edit → Preferences → Add-ons**.
+5. Click **Install Add-on from Disk...**.
+6. Navigate to the downloaded ZIP file, select it, and click **Install Add-on**.
+7. Search for **Pen View** in the Add-ons list and enable it.
 
-**Windows:**
-```
-C:\Users\<username>\AppData\Roaming\Blender Foundation\Blender\5.1\scripts\addons\
-```
 
-4. Open Blender.
-5. Go to **Edit → Preferences → Add-ons**.
-6. Search for **Pen View** and enable it.
-
-> ⚠️ Installing through Blender's Extensions system is not supported and will prevent the add-on from working correctly.
 
 ---
 
